@@ -1,7 +1,3 @@
-Certainly! Here's a brief introduction about you as a data analyst that you can use on GitHub:
-
----
-
 👋 Hi there! I'm @Atani4, a passionate data analyst based in Liverpool, UK. With a strong background in Power BI, Excel, and SQL, I specialize in transforming raw data into actionable insights that drive business decisions.
 
 📊 As a data aficionado, I thrive on extracting meaningful patterns from complex datasets and presenting them in clear, concise visualizations. Whether it's uncovering trends, forecasting future outcomes, or optimizing processes, I'm dedicated to leveraging data to unlock value for organizations.
